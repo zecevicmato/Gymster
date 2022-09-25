@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Gymster</string>
+    <string name="Name">Full Name</string>
+    <string name="Height">Height</string>
+    <string name="Weight">Weight</string>
+    <string name="Beginner">BEGINNER</string>
+    <string name="Professional">PROFESSIONAL</string>
+    <string name="Intermediate">INTERMEDIATE</string>
+    <string name="Save">SAVE</string>
+    <string name="userPhoto">userPhoto</string>
+    <string name="Logo">appLogo</string>
+    <string name="BeginnerText">Choose at least two days for workout!</string>
+    <string name="AddWorkout">AddWorkout</string>
+    <string name="addtraining">ADD AN EMPTY WORKOUT</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="workout_one">Workout 1</string>
+    <string name="Workout">WORKOUT</string>
+    <string name="date">ADD DATE</string>
+    <string name="legs">LEGS</string>
+    <string name="chest">CHEST</string>
+    <string name="back">BACK</string>
+    <string name="biceps">BICEPS</string>
+    <string name="triceps">TRICEPS</string>
+    <string name="user">User: </string>
+    <string name="user_name">User name</string>
+    <string name="user_height">User height</string>
+    <string name="user_weight">User weight</string>
+    <string name="height">Height: </string>
+    <string name="weight">Weight: </string>
+    <string name="changeWeight">CHANGE WEIGHT</string>
+    <string name="welcome">Welcome!</string>
+    <string name="startWorkout">Start with workout today!</string>
+    <string name="EXERCISES">EXERCISES:</string>
+    <string name="choosenExercises"></string>
+    <string name="Date" />
+    <string name="alreadyHave">Registered</string>
+    <string name="statistic">Workout statistic:</string>
+    <string name="legss">LEGS:</string>
+    <string name="chestt">CHEST:</string>
+    <string name="backk">BACK:</string>
+    <string name="bicepss">BICEPS:</string>
+    <string name="tricepss" />
+    <string name="tricepsss">TRICEPS</string>
+
+    //////
+    <string-array name="leg_exercises">
+        <item>Barbell back squats</item>
+        <item>Inverted Smith Machine Leg Press</item>
+        <item>Single Leg Dumbbell Split Squat</item>
+        <item>Dumbbell Lunge Step Ups</item>
+        <item>Seated Machine Squats</item>
+        <item>Leg Extensions</item>
+        <item>Barbell Hip Thrust</item>
+    </string-array>
+
+
+</resources>

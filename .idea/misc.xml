@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Gymster/app/src/main/res/drawable/button_style.xml" value="0.3712820512820513" />
+        <entry key="..\:/Gymster/app/src/main/res/drawable/edit_text_style.xml" value="0.3712820512820513" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/activity_beginner.xml" value="0.33" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/chosen_exercise_layout.xml" value="0.3609375" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/exercise_layout.xml" value="0.25" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/fragment_add_workout.xml" value="0.33" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/fragment_blank.xml" value="0.3609375" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/fragment_chat.xml" value="0.20104166666666667" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/fragment_exercises.xml" value="0.33" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/fragment_explorer.xml" value="0.20104166666666667" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/fragment_history.xml" value="0.33" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/fragment_home.xml" value="0.20104166666666667" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/fragment_planner.xml" value="0.3609375" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/fragment_user.xml" value="0.33" />
+        <entry key="..\:/Gymster/app/src/main/res/layout/list_item.xml" value="0.5" />
+        <entry key="..\:/Gymster/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
